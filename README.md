@@ -9,7 +9,13 @@
 - 🔭 Сейчас работаю над: [dearbox.kz](https://dearbox.kz) — сайт-меню для кофейни
 - 🌱 Изучаю: мир и себя
 - 💬 Пиши мне: [Telegram @CertifiedBodyWasher](https://t.me/CertifiedBodyWasher)
+### 🧼 Проекты
 
+<a href="https://dearbox.kz">
+  <img src="https://dearbox.kz/og.png" width="420" alt="Dear Box" />
+</a>
+
+**[Dear Box](https://dearbox.kz)** — сайт-меню кофейни в Уральске: открывается по QR-коду, два языка (русский и казахский), корзина и заказ в WhatsApp, светлая и тёмная тема. Без фреймворков.
 ### 🛠 Стек
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
