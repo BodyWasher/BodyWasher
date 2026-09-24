@@ -12,7 +12,7 @@
 ### 🧼 Проекты
 
 <a href="https://dearbox.kz">
-  <img src="https://dearbox.kz/og.png" width="420" alt="Dear Box" />
+  <img src="https://dearbox.kz/og.png?v=2" width="420" alt="Dear Box" />
 </a>
 
 **[Dear Box](https://dearbox.kz)** — сайт-меню кофейни в Уральске
